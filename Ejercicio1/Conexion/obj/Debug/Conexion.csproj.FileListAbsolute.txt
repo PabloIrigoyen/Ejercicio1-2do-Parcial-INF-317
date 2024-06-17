@@ -1,0 +1,6 @@
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\bin\Debug\Conexion.dll
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\bin\Debug\Conexion.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\obj\Debug\Conexion.dll
+C:\Aqui material de materias optativas\Ejercicio1\Conexion\obj\Debug\Conexion.pdb

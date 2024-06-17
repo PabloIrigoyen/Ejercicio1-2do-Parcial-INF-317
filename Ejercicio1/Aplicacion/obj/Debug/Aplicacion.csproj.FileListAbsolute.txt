@@ -1,0 +1,15 @@
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Aplicacion.exe.config
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Aplicacion.exe
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Aplicacion.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Conexion.dll
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Logica.dll
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Conexion.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\bin\Debug\Logica.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.Form1.resources
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.csproj.Up2Date
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.exe
+C:\Aqui material de materias optativas\Ejercicio1\Aplicacion\obj\Debug\Aplicacion.pdb

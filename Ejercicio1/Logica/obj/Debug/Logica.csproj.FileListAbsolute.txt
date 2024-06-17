@@ -1,0 +1,9 @@
+C:\Aqui material de materias optativas\Ejercicio1\Logica\bin\Debug\Logica.dll
+C:\Aqui material de materias optativas\Ejercicio1\Logica\bin\Debug\Logica.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Logica\bin\Debug\Conexion.dll
+C:\Aqui material de materias optativas\Ejercicio1\Logica\bin\Debug\Conexion.pdb
+C:\Aqui material de materias optativas\Ejercicio1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Aqui material de materias optativas\Ejercicio1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Aqui material de materias optativas\Ejercicio1\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Aqui material de materias optativas\Ejercicio1\Logica\obj\Debug\Logica.dll
+C:\Aqui material de materias optativas\Ejercicio1\Logica\obj\Debug\Logica.pdb
